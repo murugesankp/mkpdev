@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+transformers
+torch
+numpy
+scikit-learn
+openai
